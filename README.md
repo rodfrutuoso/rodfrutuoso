@@ -5,10 +5,9 @@
 [![Youtube](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=rodfrutuoso@hotmail.com&tf=cm)
 
 
-<!-- ![Rodrigo Frutuoso GitHub stats](https://github-readme-stats.vercel.app/api?username=rodfrutuoso&show_icons=true&theme=synthwave&count_private=true) -->
-<div align='center'>
-  ![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=rodfrutuoso&show_icons=true&theme=dracula)
-</div>
+![Rodrigo Frutuoso GitHub stats](https://github-readme-stats.vercel.app/api?username=rodfrutuoso&show_icons=true&theme=synthwave&count_private=true)
+
+
 
 <div style="display: inline_block">
   <img align="center" alt="sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
