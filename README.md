@@ -7,8 +7,7 @@
 
 <!-- ![Rodrigo Frutuoso GitHub stats](https://github-readme-stats.vercel.app/api?username=rodfrutuoso&show_icons=true&theme=synthwave&count_private=true) -->
 <div align='center'>
-  <img width ="400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=rodfrutuoso&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img width ="400em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodfrutuoso&layout=compact&langs_count=7&theme=blue-green"/>
+  ![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=rodfrutuoso&show_icons=true&theme=dracula)
 </div>
 
 <div style="display: inline_block">
