@@ -1,14 +1,22 @@
 
-
-
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-frutuoso-dos-santos-699787156)
-[![Youtube](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=rodfrutuoso@hotmail.com&tf=cm)
-
-
-<div align='center'>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodfrutuoso&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodfrutuoso&layout=compact&langs_count=7&theme=blue-green"/>
+<div align="center" style="display: inline_block">
+<a  href="https://www.linkedin.com/in/rodrigo-frutuoso-dos-santos-699787156"><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="HTML tutorial" ></a>
+<a  href="https://mail.google.com/mail/u/0/?fs=1&to=rodfrutuoso@hotmail.com&tf=cm"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="HTML tutorial" ></a>
 </div>
+
+
+
+
+
+<div align="center">
+
+<a href="https://github.com/0xabdulkhalid/">
+  <img src="https://github-readme-stats.vercel.app/api?username=rodfrutuoso&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rodfrutuoso&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
+
+</a>
+</div>
+
 
 
 <div style="display: inline_block">
