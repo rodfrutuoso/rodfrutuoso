@@ -4,20 +4,14 @@
 <a  href="https://mail.google.com/mail/u/0/?fs=1&to=rodfrutuoso@hotmail.com&tf=cm"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="HTML tutorial" ></a>
 </div>
 
-
-
-
-
 <div align="center">
 
-<a href="https://github.com/0xabdulkhalid/">
+<a href="https://github.com/rodfrutuoso/">
   <img src="https://github-readme-stats.vercel.app/api?username=rodfrutuoso&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rodfrutuoso&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rodfrutuoso&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="rodfrutuoso"/>
 
 </a>
 </div>
-
-
 
 <div style="display: inline_block">
   <img align="center" alt="sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
