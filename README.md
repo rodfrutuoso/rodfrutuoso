@@ -13,7 +13,7 @@
 </a>
 </div>
 
-<div style="display: inline_block">
+<div align="center" style="display: inline_block, justify-content: space-evenly">
   <img align="center" alt="sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/LOOKER_STUDIO-blue?style=for-the-badge&logo=looker&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
