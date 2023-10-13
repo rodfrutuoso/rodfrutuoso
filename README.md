@@ -13,10 +13,10 @@
 </a>
 </div>
 
-<div style="display: inline_block">
+<div align="center" style="display: inline_block">
   <!-- <img align="center" alt="sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" /> -->
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/google_script-red?style=for-the-badge&logo=googleappsscript&logoColor=black" />
+  <img align="center" alt="GoogleScript" src="https://img.shields.io/badge/google_script-red?style=for-the-badge&logo=googleappsscript&logoColor=black" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/LOOKER_STUDIO-blue?style=for-the-badge&logo=looker&logoColor=white" />
   <img align="center" alt="node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="center" alt="googlecloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
