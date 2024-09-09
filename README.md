@@ -15,8 +15,8 @@
 
 <div align="center" style="display: inline_block">
   <!-- <img align="center" alt="sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" /> -->
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="GoogleScript" src="https://img.shields.io/badge/google_script-red?style=for-the-badge&logo=googleappsscript&logoColor=white" />
+  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
+  <img align="center" alt="NestJs" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img align="center" alt="looker" src="https://img.shields.io/badge/LOOKER_STUDIO-blue?style=for-the-badge&logo=looker&logoColor=white" />
   <img align="center" alt="node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="center" alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
